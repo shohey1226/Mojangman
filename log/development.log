@@ -1,0 +1,99 @@
+[Wed Feb 26 08:06:50 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 08:07:02 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 08:07:02 2014] [debug] GET "/".
+[Wed Feb 26 08:07:02 2014] [debug] Routing to controller "Mojangman::Example" and action "welcome".
+[Wed Feb 26 08:07:02 2014] [debug] Rendering template "example/welcome.html.ep".
+[Wed Feb 26 08:07:02 2014] [debug] Rendering template "layouts/default.html.ep".
+[Wed Feb 26 08:07:02 2014] [debug] 200 OK (0.007674s, 130.310/s).
+[Wed Feb 26 08:07:07 2014] [debug] GET "/".
+[Wed Feb 26 08:07:07 2014] [debug] Routing to controller "Mojangman::Example" and action "welcome".
+[Wed Feb 26 08:07:07 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Feb 26 08:07:07 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Feb 26 08:07:07 2014] [debug] 200 OK (0.001301s, 768.640/s).
+[Wed Feb 26 08:07:10 2014] [debug] GET "/".
+[Wed Feb 26 08:07:10 2014] [debug] Routing to controller "Mojangman::Example" and action "welcome".
+[Wed Feb 26 08:07:10 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Feb 26 08:07:10 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Feb 26 08:07:10 2014] [debug] 200 OK (0.001767s, 565.931/s).
+[Wed Feb 26 08:08:25 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 08:08:33 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 08:08:33 2014] [debug] GET "/".
+[Wed Feb 26 08:08:33 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 08:08:33 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 08:08:33 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 08:08:33 2014] [debug] Rendering inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 08:08:33 2014] [debug] 404 Not Found (0.036217s, 27.611/s).
+[Wed Feb 26 08:09:04 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 08:09:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 08:09:06 2014] [debug] GET "/".
+[Wed Feb 26 08:09:06 2014] [error] No handler for "" available.
+[Wed Feb 26 08:09:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 08:09:06 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 08:09:06 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 08:09:06 2014] [debug] Rendering inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 08:09:06 2014] [debug] 404 Not Found (0.037835s, 26.431/s).
+[Wed Feb 26 08:15:45 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 08:15:51 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 08:15:51 2014] [debug] GET "/".
+[Wed Feb 26 08:15:51 2014] [error] No handler for "" available.
+[Wed Feb 26 08:15:51 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 08:15:51 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 08:15:51 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 08:15:51 2014] [debug] Rendering inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 08:15:51 2014] [debug] 404 Not Found (0.035695s, 28.015/s).
+[Wed Feb 26 08:15:55 2014] [debug] GET "/".
+[Wed Feb 26 08:15:55 2014] [error] No handler for "" available.
+[Wed Feb 26 08:15:55 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 08:15:55 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 08:15:55 2014] [debug] Rendering cached inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 08:15:55 2014] [debug] Rendering cached inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 08:15:55 2014] [debug] 404 Not Found (0.006716s, 148.898/s).
+[Wed Feb 26 08:16:17 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 08:16:20 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 08:16:20 2014] [debug] GET "/".
+[Wed Feb 26 08:16:20 2014] [error] No handler for "" available.
+[Wed Feb 26 08:16:20 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 08:16:20 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 08:16:20 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 08:16:20 2014] [debug] Rendering inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 08:16:20 2014] [debug] 404 Not Found (0.033932s, 29.471/s).
+[Wed Feb 26 08:16:22 2014] [debug] GET "/".
+[Wed Feb 26 08:16:22 2014] [error] No handler for "" available.
+[Wed Feb 26 08:16:22 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 08:16:22 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 08:16:22 2014] [debug] Rendering cached inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 08:16:22 2014] [debug] Rendering cached inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 08:16:22 2014] [debug] 404 Not Found (0.006306s, 158.579/s).
+[Wed Feb 26 20:20:43 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 20:20:49 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 20:20:49 2014] [debug] GET "/".
+[Wed Feb 26 20:20:49 2014] [debug] Controller "Mojangman::Action::Static" does not exist.
+[Wed Feb 26 20:20:49 2014] [debug] Template "action/static/serve_root.html.ep" not found.
+[Wed Feb 26 20:20:49 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 20:20:49 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 20:20:49 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 20:20:49 2014] [debug] Rendering inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 20:20:49 2014] [debug] 404 Not Found (0.039581s, 25.265/s).
+[Wed Feb 26 20:20:52 2014] [debug] GET "/".
+[Wed Feb 26 20:20:52 2014] [debug] Controller "Mojangman::Action::Static" does not exist.
+[Wed Feb 26 20:20:52 2014] [debug] Template "action/static/serve_root.html.ep" not found.
+[Wed Feb 26 20:20:52 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 20:20:52 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 20:20:52 2014] [debug] Rendering cached inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 20:20:52 2014] [debug] Rendering cached inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 20:20:52 2014] [debug] 404 Not Found (0.013128s, 76.173/s).
+[Wed Feb 26 21:25:35 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 21:25:44 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 21:25:44 2014] [debug] GET "/".
+[Wed Feb 26 21:25:44 2014] [debug] Controller "Mojangman::Action::Static" does not exist.
+[Wed Feb 26 21:25:44 2014] [debug] Template "action/static/serve_root.html.ep" not found.
+[Wed Feb 26 21:25:44 2014] [debug] Template "not_found.development.html.ep" not found.
+[Wed Feb 26 21:25:44 2014] [debug] Template "not_found.html.ep" not found.
+[Wed Feb 26 21:25:44 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Wed Feb 26 21:25:44 2014] [debug] Rendering inline template "386d52bb3f2a581a1b21007d7de8d1aa".
+[Wed Feb 26 21:25:44 2014] [debug] 404 Not Found (0.046254s, 21.620/s).
+[Wed Feb 26 21:27:00 2014] [info] Listening at "http://*:3000".
+[Wed Feb 26 21:27:04 2014] [debug] Your secret passphrase needs to be changed!!!
+[Wed Feb 26 21:27:04 2014] [debug] GET "/".
+[Wed Feb 26 21:27:04 2014] [debug] Routing to controller "Mojangman::Example" and action "serve_root".
+[Wed Feb 26 21:27:04 2014] [debug] 200 OK (0.001616s, 618.812/s).
